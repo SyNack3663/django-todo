@@ -1,0 +1,16 @@
+body {
+    background-color: wheat;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.nav-item {
+    list-style: none;
+}
+
+.navbar > .navbar-center {
+    margin: 0 auto 0 0;
+    color: white;
+}
